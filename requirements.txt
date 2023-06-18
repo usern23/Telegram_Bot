@@ -1,0 +1,8 @@
+#pip install -r requirements.txt
+aiogram
+aiohttp
+logging
+pickle
+asyncio
+datetime
+dotenv
